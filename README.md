@@ -1,135 +1,245 @@
-# 👋 Hey there, I'm Mohamed Bziyar!
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=Location&message=Casablanca,%20Morocco&color=blue" alt="Location">
+</p>
 
-![Location](https://img.shields.io/static/v1?label=Location&message=Casablanca,%20Morocco&color=blue)
+<h1 align="center">🚀 Mohamed Bziyar - Flutter & Laravel Developer 🚀</h1>
 
-## 💼 Flutter & Laravel Developer | Firebase Enthusiast
+<p align="center">
+  <samp>Passionate about code that soars. Crafting pixel-perfect experiences and robust backends.</samp>
+</p>
 
-I'm passionate about creating innovative mobile applications and robust APIs. My journey in the world of software engineering has been a thrilling ride, and here's a glimpse of what I bring to the table:
+<hr>
 
-### 👨‍💻 Expertise
+<h2 align="center">💻 Expertise</h2>
 
-- **GPS Whisperer:** Designed GPS tracking apps like Casky and NEW GPS MOROCCO, ensuring they run like clockwork.
+<p align="center">
+  <img src="https://img.shields.io/badge/GPS%20Tracking%20Apps-%E2%9C%94-brightgreen" alt="GPS Tracking Apps">
+  <img src="https://img.shields.io/badge/Animation%20Maestro-%E2%9C%94-orange" alt="Animation Maestro">
+  <img src="https://img.shields.io/badge/Flutter%20Packages-%E2%9C%94-blue" alt="Flutter Packages">
+  <img src="https://img.shields.io/badge/BLOC%20Pattern-%E2%9C%94-ff69b4" alt="BLOC Pattern">
+  <img src="https://img.shields.io/badge/Native%20Integration-%E2%9C%94-9cf" alt="Native Integration">
+  <img src="https://img.shields.io/badge/Data%20Wizard-%E2%9C%94-yellow" alt="Data Wizard">
+  <img src="https://img.shields.io/badge/Laravel%20Maestro-%E2%9C%94-red" alt="Laravel Maestro">
+  <img src="https://img.shields.io/badge/Firebase%20Alchemist-%E2%9C%94-yellowgreen" alt="Firebase Alchemist">
+  <img src="https://img.shields.io/badge/Mapping%20Extraordinaire-%E2%9C%94-blueviolet" alt="Mapping Extraordinaire">
+</p>
 
-- **Animation Maestro:** I breathe life into apps with mesmerizing animations, elevating user engagement.
+<hr>
 
-- **App Architect:** Crafted school management and community growth apps like MyUIR and Alumni.
+<h2 align="center">🌟 Work Experience</h2>
 
-- **Flutter Enthusiast:** Created powerful Flutter packages and plugins like flutter_nearby_messages_api and particles_fly.
+<h3 align="center">Top Rated Flutter & Laravel Developer on Upwork</h3>
 
-- **State Manager:** Proficient in BLOC, provider, getX, and get_it, I keep apps running smoothly.
+<p align="center">
+  <samp>
+    Making magic happen with Laravel + Flutter. Building Web Admin, Seller, and User apps. Ubuntu server whisperer. 🪄
+  </samp>
+  <br>
+  <a href="https://www.upwork.com/freelancers/nextsimo">Explore My Upwork Profile</a>
+</p>
 
-- **Native Integrator:** Seamlessly blended Swift, Java, and Kotlin into Flutter for comprehensive app solutions.
+<h3 align="center">NEW GPS Flutter & Dart & Laravel Developer</h3>
 
-- **Data Wizard:** Specialized in parsing data from Teltonika devices for GPS analysis and visualization.
+<p align="center">
+  <samp>
+    Navigating the app world with GPS tracking, Teltonika wizardry, and Flutter magic. Apple and Android sorcery. 🌍
+  </samp>
+  <br>
+  <a href="https://apps.apple.com/ma/app/new-gps/id1558685492">Check Out My App</a>
+</p>
 
-- **Laravel Maestro:** Designed robust APIs to fuel mobile apps, ensuring data flows effortlessly.
+<h3 align="center">FreshTrack - Flutter Developer (Freelance)</h3>
 
-- **Firebase Alchemist:** Leveraged Firebase's magic for enhanced app functionalities and performance.
+<p align="center">
+  <samp>
+    Adobe XD wizardry, API enchantment, and Mapbox sorcery. Transforming designs into digital dreams. 🚀
+  </samp>
+  <br>
+  <a href="https://www.freshtrack.ma/en">Visit FreshTrack</a>
+</p>
 
-- **Mapping Extraordinaire:** Mastered Google Maps, OpenStreetMaps, and Mapbox to make apps location-savvy.
+<h3 align="center">Poste Maroc (Barid Al Maghrib) - Flutter Developer</h3>
 
-### 💼 Work Experience
+<p align="center">
+  <samp>
+    Pioneering package tracking magic. Offline-online wizard. Keeping packages on their journey, rain or shine. 📦
+  </samp>
+  <br>
+  <a href="https://play.google.com/store/apps/details?id=app.bam.myamana">Explore the App</a>
+</p>
 
-#### 🌟 Top Rated Flutter & Laravel Developer on Upwork
-- *February 01, 2023 - Present*
-- Modifying Laravel + Flutter code, adding new features, and configuring web apps.
-- [Explore my Upwork profile](https://www.upwork.com/freelancers/nextsimo)
+<h3 align="center">Casky.io - Flutter Developer</h3>
 
-#### 🚀 NEW GPS Flutter & Dart & Laravel Developer
-- *April 01, 2021 - Present*
-- Developed a GPS-based Tracking app with speed, heading, and localization features.
-- Configured Teltonika devices, parsed binary data, and built a Laravel API.
-- [Check out the app on Apple App Store](https://apps.apple.com/ma/app/new-gps/id1558685492)
+<p align="center">
+  <samp>
+    Real-time data virtuoso. UI architect. Mapbox cartographer. Push notifications sorcerer. Secure authentication wizard. 🛣️
+  </samp>
+  <br>
+  <a href="https://play.google.com/store/apps/developer?id=CASK">See My Work</a>
+</p>
 
-#### 💡 FreshTrack - Flutter Developer (Freelance)
-- *October 01, 2022 - July 22, 2023*
-- Transformed Adobe XD designs into Flutter's interactive masterpieces.
-- Integrated APIs for seamless data communication and spiced it up with Mapbox magic.
+<h3 align="center">STG Group - Flutter Developer</h3>
 
-#### 📦 Poste Maroc (Barid Al Maghrib) - Flutter Developer
-- *July 01, 2022 - February 01, 2023*
-- Built a versatile package tracking app, working both online and offline.
-- Seamlessly switching between modes and efficiently storing data.
+<p align="center">
+  <samp>
+    Crafting apps for education and beyond. Delivering digital dreams. Making waves in the app world. 🌊
+  </samp>
+</p>
 
-#### 🌐 Casky.io - Flutter Developer
-- *September 01, 2020 - March 01, 2021*
-- Real-time data processing, user-friendly UI, Mapbox maps, and secure user authentication.
+<hr>
 
-#### 📱 STG Group - Flutter Developer
-- *May 01, 2019 - September 01, 2020*
-- Crafted apps for educational institutions, Casablanca city, and an e-commerce platform.
+<h2 align="center">🎓 Education</h2>
 
-### 📚 Education
+<h3 align="center">IGA - Higher Institute of Applied Engineering</h3>
 
-- **IGA - Higher Institute of Applied Engineering**
-  - *September 08, 2023 - Present*
+<p align="center">
+  <samp>🎯 Engineer's degree in Computer Science 🎯</samp>
+  <br>
+  <samp>📆 September 08, 2023 - Present 📆</samp>
+</p>
 
-- **Mohammed VI University**
-  - Associate's degree, Multimedia and Web Design
-  - *January 01, 2017 - January 01, 2019*
+<h3 align="center">Mohammed VI University</h3>
 
-- **AlQODS High School**
-  - High School Diploma
-  - *January 01, 2013 - January 01, 2014*
+<p align="center">
+  <samp>🎓 Associate's degree in Multimedia and Web Design 🎓</samp>
+  <br>
+  <samp>📆 January 01, 2017 - January 01, 2019 📆</samp>
+</p>
 
-### 🚀 Open Projects
+<h3 align="center">AlQODS High School</h3>
 
-- **Particles Fly** - A Flutter Package for Displaying Particles, like Particles Js.
-  - [View on Pub.dev](https://pub.dev/packages/particles_fly)
+<p align="center">
+  <samp>🎓 High School Diploma 🎓</samp>
+  <br>
+  <samp>📆 January 01, 2013 - January 01, 2014 📆</samp>
+</p>
 
-- **Scrollable Clean Calendar** - A Clean Calendar Widget with Vertical Scroll, Locale, and Date Range Selection.
-  - [Explore on GitHub](https://github.com/nextsimo/scrollable_clean_calendar/tree/master)
+<hr>
 
-### 📢 References
+<h2 align="center">🚀 Open Projects</h2>
 
-- **Abdelkarim MECHACHGOUR**  
-  Commercial Director at NEWGPS  
-  "Mohamed was reliable, flexible, and very responsive. Highly recommend."
+<h3 align="center">Particles Fly</h3>
 
-- **Youssef Amakrane**  
-  General Manager at STG Group  
-  "Reliable and great personality. I still recommend him to friends."
+<p align="center">
+  <samp>A Flutter Package for Displaying Particles, like Particles Js. 🌌</samp>
+  <br>
+  <a href="https://pub.dev/packages/particles_fly">Explore on Pub.dev</a>
+</p>
 
-- **Achraf OUKHEIR**  
-  R&D Embedded Software Developer  
-  "Good in mobile app development."
+<h3 align="center">Scrollable Clean Calendar</h3>
 
-### 🌐 Interests
+<p align="center">
+  <samp>A Clean Calendar Widget with Vertical Scroll, Locale, and Date Range Selection. 📅</samp>
+  <br>
+  <a href="https://github.com/nextsimo/scrollable_clean_calendar/tree/master">View on GitHub</a>
+</p>
 
-- Machine Learning
+<hr>
 
-### 🌍 Languages
+<h2 align="center">📢 References</h2>
 
-- English (Proficient)
-- French (Proficient)
-- Arabic (Native)
+<h3 align="center">Abdelkarim MECHACHGOUR</h3>
 
-### 🎓 Certifications
+<p align="center">
+  <samp>Commercial Director at NEWGPS</samp>
+  <br>
+  <samp>"Reliable, flexible, and very responsive. Highly recommend."</samp>
+</p>
 
-- **Apprenez à créer votre site web avec HTML5 et CSS3**  
-  OpenClassrooms  
-  (June 01, 2018)
+<h3 align="center">Youssef Amakrane</h3>
 
-- **Découvrez les solutions CMS**  
-  OpenClassrooms  
-  (July 01, 2018)
+<p align="center">
+  <samp>General Manager at STG Group</samp>
+  <br>
+  <samp>"Reliable and great personality. I still recommend him to friends."</samp>
+</p>
 
-- **Démarrez votre projet avec Python**  
-  OpenClassrooms  
-  (July 01, 2018)
+<h3 align="center">Achraf OUKHEIR</h3>
 
-### 📚 Publications
+<p align="center">
+  <samp>R&D Embedded Software Developer</samp>
+  <br>
+  <samp>"Good in mobile app development."</samp>
+</p>
 
-- **Flutter Handling your network API calls with Provider | Darija**  
-  [Watch on YouTube](https://www.youtube.com/watch?v=S-4RHa7K-DY)
+<hr>
 
-- **All you need to know about state management in flutter -darija**  
-  [Watch on YouTube](https://youtu.be/cn_XkGmvb_o)
+<h2 align="center">🌐 Interests</h2>
 
-- **Particles Fly**  
-  [Watch on YouTube](https://www.youtube.com/shorts/0B3WuV9m8_s?feature=share)
+<p align="center">
+  <samp>Machine Learning 🤖</samp>
+</p>
 
-- **Official Flutter Docs B Darija intro | darija**  
-  [Watch on YouTube](https://youtu.be/0cG53vMDwqk)
+<hr>
 
-Let's connect and explore exciting software engineering opportunities together!
+<h2 align="center">🌍 Languages</h2>
+
+<p align="center">
+  <samp>English (Proficient) | French (Proficient) | Arabic (Native)</samp>
+</p>
+
+<hr>
+
+<h2 align="center">🎓 Certifications</h2>
+
+<h3 align="center">Apprenez à créer votre site web avec HTML5 et CSS3</h3>
+
+<p align="center">
+  <samp>OpenClassrooms</samp>
+  <br>
+  <samp>📅 June 01, 2018</samp>
+  <br>
+  <a href="https://openclassrooms.com/course-certificates/5338736251">Certificate</a>
+</p>
+
+<h3 align="center">Découvrez les solutions CMS</h3>
+
+<p align="center">
+  <samp>OpenClassrooms</samp>
+  <br>
+  <samp>📅 July 01, 2018</samp>
+  <br>
+  <a href="https://openclassrooms.com/course-certificates/2384291603">Certificate</a>
+</p>
+
+<h3 align="center">Démarrez votre projet avec Python</h3>
+
+<p align="center">
+  <samp>OpenClassrooms</samp>
+  <br>
+  <samp>📅 July 01, 2018</samp>
+  <br>
+  <a href="https://openclassrooms.com/en/course-certificates/1615626833">Certificate</a>
+</p>
+
+<hr>
+
+<h2 align="center">📚 Publications</h2>
+
+<h3 align="center">Flutter Handling your network API calls with Provider | Darija</h3>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=S-4RHa7K-DY">Watch on YouTube</a>
+</p>
+
+<h3 align="center">All you need to know about state management in flutter -darija</h3>
+
+<p align="center">
+  <a href="https://youtu.be/cn_XkGmvb_o">Watch on YouTube</a>
+</p>
+
+<h3 align="center">Particles Fly</h3>
+
+<p align="center">
+  <a href="https://www.youtube.com/shorts/0B3WuV9m8_s?feature=share">Watch on YouTube</a>
+</p>
+
+<h3 align="center">Official Flutter Docs B Darija intro | darija</h3>
+
+<p align="center">
+  <a href="https://youtu.be/0cG53vMDwqk">Watch on YouTube</a>
+</p>
+
+<p align="center">
+  <a href="https://bziyar.dev/">Visit My Portfolio</a> | <a href="https://github.com/nextsimo">Follow on GitHub</a>
+</p>
