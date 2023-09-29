@@ -162,6 +162,22 @@
   <samp>"Good in mobile app development."</samp>
 </p>
 
+<h3 align="center">Hakan Yaman</h3>
+
+<p align="center">
+  <samp>Client on Upwork</samp>
+  <br>
+  <samp>"Mohamed is exceptionally talented in app development. His attention to detail, technical expertise, and innovative approach have made a significant impact. It's been a pleasure working with him. Keep up the great work, Mohamed!"</samp>
+</p>
+
+<h3 align="center">Abdulraouf Alfaifi</h3>
+
+<p align="center">
+  <samp>Client on Upwork</samp>
+  <br>
+  <samp>"He is one of the best programmers in skills and dealings. I recommend dealing with him من افضل المبرمجين في المهارات وفي التعامل انصح بالتعامل معه"</samp>
+</p>
+
 <hr>
 
 <h2 align="center">🌐 Interests</h2>
