@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/static/v1?label=Location&message=Casablanca,%20Morocco&color=blue" alt="Location">
 </p>
 
-<h1 align="center">🚀 Mohamed Bziyar - Flutter & Laravel Developer 🚀</h1>
+<h1 align="center">🚀 Mohamed Bziyar - Full Stack Developer | Mobile App Specialist 🚀</h1>
 
 <p align="center">
   <samp>Passionate about code that soars. Crafting pixel-perfect experiences and robust backends.</samp>
